@@ -46,6 +46,7 @@ TreeNode* initBTree(int elements[], int size)
         nodeQueue.push(nodes[index++]);
         node->right = nodeQueue.back();
     }
+    cout <<"建树完成\n" ;
     return nodes[0];
 }
 // 前序遍历
@@ -79,6 +80,8 @@ void postOrder(TreeNode *root, vector<int> &result)
     }
 }
 
+
+// 根据二叉树的前序和中序遍历，构建二叉树
 TreeNode *buildTree(vector<int> &preorder, int pLeft, int pRight, vector<int> &inorder, int iLeft, int iRight) {
     if (pLeft > pRight || iLeft > iRight) return NULL;
     int i = 0;
@@ -89,9 +92,7 @@ TreeNode *buildTree(vector<int> &preorder, int pLeft, int pRight, vector<int> &i
     cur->left = buildTree(preorder, pLeft + 1, pLeft + i - iLeft, inorder, iLeft, i - 1);
     cur->right = buildTree(preorder, pLeft + i - iLeft + 1, pRight, inorder, i + 1, iRight);
     return cur;
-}
-
-// 根据二叉树的前序和中序遍历，构建二叉树
+}// 递归执行上个函数
 TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
     return buildTree(preorder, 0, (int)preorder.size()-1, inorder, 0, (int)inorder.size()-1);
 }

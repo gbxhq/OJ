@@ -7,5 +7,6 @@
         "queue": "cpp",
         "stack": "cpp",
         "iosfwd": "cpp"
-    }
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
 }

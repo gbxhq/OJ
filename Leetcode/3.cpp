@@ -11,15 +11,12 @@ int lengthOfLongestSubstring(string s) {
     int max = -99999;
     int start = -9999;
     for(int i=0;i<n;i++){
-        if(map.find(s[i])!=map.end()&&map[s[i]]>=start){//存在
+        if(map.find(s[i])!=map.end()&&map[s[i]]>=start){//存在  //记得排除map里s[i]之前的字母 &&map[s[i]]>=start
             if(count>max)
                 max = count;
             count = i-map[s[i]];        
-            //TODO: 把s[i]之前的字母 在map里清空啊
             start = map[s[i]]+1; //字母的开始坐标变成 i+1 。
             map[s[i]] = i; //更新新的 s[i]坐标
-    
-
         }else{ //不存在则存入
             count++;
             map[s[i]] = i;

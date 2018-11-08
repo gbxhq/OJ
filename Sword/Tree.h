@@ -33,6 +33,7 @@ TreeNode* initBTree(int elements[], int size)
         }
     }
     queue<TreeNode*> nodeQueue;
+
     nodeQueue.push(nodes[0]);
 
     TreeNode *node;

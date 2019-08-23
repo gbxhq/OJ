@@ -1,0 +1,876 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Algorithm" targetName="XS" />
+      <config projectName="Algorithm" targetName="luogu" />
+      <config projectName="Algorithm" targetName="LeetCode" />
+      <config projectName="Algorithm" targetName="HDOJ" />
+      <config projectName="Algorithm" targetName="Sword" />
+      <config projectName="Algorithm" targetName="Algorithm" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="975dfba4-e2ae-4c75-b305-bb5b5129b948" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Sword/Swordtemp.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="461">
+              <caret line="49" column="9" lean-forward="true" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Sword/67.cpp">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="刷题模板" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>if</find>
+      <find>`</find>
+      <find>;</find>
+      <find>ab</find>
+      <find>ll</find>
+      <find>19,1</find>
+      <find>21</find>
+      <find>11</find>
+      <find>12</find>
+      <find>1</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>bign</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Sword/41-1.cpp" />
+        <option value="$PROJECT_DIR$/luogu/P1147 连续自然数和.cpp" />
+        <option value="$PROJECT_DIR$/luogu/AC/P1029 最大公约数和最小公倍数问题.cpp" />
+        <option value="$PROJECT_DIR$/luogu/P1192 台阶问题.cpp" />
+        <option value="$PROJECT_DIR$/luogu/P1025 数的划分.cpp" />
+        <option value="$PROJECT_DIR$/luogu/P1135 奇怪的电梯.cpp" />
+        <option value="$PROJECT_DIR$/luogu/AC/P1057 传球游戏.cpp" />
+        <option value="$PROJECT_DIR$/XS/Sort/Select.cpp" />
+        <option value="$PROJECT_DIR$/XS/Sort/Merge.cpp" />
+        <option value="$PROJECT_DIR$/XS/Sort/radix.cpp" />
+        <option value="$PROJECT_DIR$/XS/Sort/shell.cpp" />
+        <option value="$PROJECT_DIR$/XS/sort.cpp" />
+        <option value="$PROJECT_DIR$/XS/Sort/Insert.cpp" />
+        <option value="$PROJECT_DIR$/XS/Sort/Bubble.cpp" />
+        <option value="$PROJECT_DIR$/luogu/AC/P1996 约瑟夫问题.cpp" />
+        <option value="$PROJECT_DIR$/luogu/P1115 最大子段和.cpp" />
+        <option value="$PROJECT_DIR$/luogu/AC/P1449 后缀表达式.cpp" />
+        <option value="$PROJECT_DIR$/luogu/AC/P1087 FBI树.cpp" />
+        <option value="$PROJECT_DIR$/luogu/AC/P1305 新二叉树.cpp" />
+        <option value="$PROJECT_DIR$/luogu/AC/P1601 A+B Problem（高精）.cpp" />
+        <option value="$PROJECT_DIR$/luogu/AC/P2142 高精度减法.cpp" />
+        <option value="$PROJECT_DIR$/luogu/AC/P1303 A*B Problem.cpp" />
+        <option value="$PROJECT_DIR$/luogu/AC/P1255 数楼梯.cpp" />
+        <option value="$PROJECT_DIR$/luogu/AC/P1604 B进制星球.cpp" />
+        <option value="$PROJECT_DIR$/luogu/AC/P1030 求先序排列.cpp" />
+        <option value="$PROJECT_DIR$/luogu/P5018 对称二叉树.cpp" />
+        <option value="$PROJECT_DIR$/luogu/AC/P1060 开心的金明.cpp" />
+        <option value="$PROJECT_DIR$/luogu/P1141 01迷宫.cpp" />
+        <option value="$PROJECT_DIR$/XS/Sort/Quick.cpp" />
+        <option value="$PROJECT_DIR$/XS/高精度.cpp" />
+        <option value="$PROJECT_DIR$/XS/TS2017T3/T#.cpp" />
+        <option value="$PROJECT_DIR$/XS/temp.cpp" />
+        <option value="$PROJECT_DIR$/luogu/AC/P1049 装箱问题.cpp" />
+        <option value="$PROJECT_DIR$/luogu/AC/P1616 疯狂的采药.cpp" />
+        <option value="$PROJECT_DIR$/luogu/AC/P1182 数列分段`Section II`.cpp" />
+        <option value="$PROJECT_DIR$/luogu/AC/P1216 [IOI1994][USACO1.5]数字三角形 Number Triangles.cpp" />
+        <option value="$PROJECT_DIR$/luogu/AC/P1316 丢瓶盖.cpp" />
+        <option value="$PROJECT_DIR$/luogu/P1126 机器人搬重物.cpp" />
+        <option value="$PROJECT_DIR$/luogu/AC/P1443 马的遍历.cpp" />
+        <option value="$PROJECT_DIR$/luogu/AC/P3383 【模板】线性筛素数.cpp" />
+        <option value="$PROJECT_DIR$/luogu/AC/P1118 [USACO06FEB]数字三角形.cpp" />
+        <option value="$PROJECT_DIR$/luogu/AC/P1048 采药.cpp" />
+        <option value="$PROJECT_DIR$/luogu/P1428.cpp" />
+        <option value="$PROJECT_DIR$/luogu/P1434 [SHOI2002]滑雪.cpp" />
+        <option value="$PROJECT_DIR$/luogu/P1064 金明的预算方案.cpp" />
+        <option value="$PROJECT_DIR$/luogu/AC/P1164 小A点菜.cpp" />
+        <option value="$PROJECT_DIR$/luogu/AC/P1433 吃奶酪.cpp" />
+        <option value="$PROJECT_DIR$/luogu/temp.cpp" />
+        <option value="$PROJECT_DIR$/Sword/62.cpp" />
+        <option value="$PROJECT_DIR$/Sword/67.cpp" />
+        <option value="$PROJECT_DIR$/Sword/Swordtemp.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="960" />
+    <option name="y" value="23" />
+    <option name="width" value="960" />
+    <option name="height" value="1177" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="luogu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="Sword" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/luogu/AC" />
+      <recent name="$PROJECT_DIR$/luogu" />
+      <recent name="$PROJECT_DIR$/LeetCode/AC" />
+      <recent name="$PROJECT_DIR$/Sword/AC" />
+      <recent name="$PROJECT_DIR$/Sword" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="luogu" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Sword">
+    <configuration name="Algorithm" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithm" TARGET_NAME="Algorithm" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithm" RUN_TARGET_NAME="Algorithm">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HDOJ" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithm" TARGET_NAME="HDOJ" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithm" RUN_TARGET_NAME="HDOJ">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeetCode" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithm" TARGET_NAME="LeetCode" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithm" RUN_TARGET_NAME="LeetCode">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sword" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithm" TARGET_NAME="Sword" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithm" RUN_TARGET_NAME="Sword">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XS" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithm" TARGET_NAME="XS" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithm" RUN_TARGET_NAME="XS">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="luogu" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithm" TARGET_NAME="luogu" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithm" RUN_TARGET_NAME="luogu">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Build All" />
+      <item itemvalue="Application.Algorithm" />
+      <item itemvalue="Application.HDOJ" />
+      <item itemvalue="Application.LeetCode" />
+      <item itemvalue="Application.luogu" />
+      <item itemvalue="Application.Sword" />
+      <item itemvalue="Application.XS" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="975dfba4-e2ae-4c75-b305-bb5b5129b948" name="Default Changelist" comment="" />
+      <created>1542695571130</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542695571130</updated>
+      <workItem from="1542695572446" duration="3171000" />
+      <workItem from="1542717578260" duration="6000" />
+      <workItem from="1542717674162" duration="8280000" />
+      <workItem from="1542767167395" duration="5403000" />
+      <workItem from="1542850198096" duration="1061000" />
+      <workItem from="1542937927264" duration="16883000" />
+      <workItem from="1543026970910" duration="7568000" />
+      <workItem from="1543128174756" duration="8762000" />
+      <workItem from="1543211146148" duration="7787000" />
+      <workItem from="1543230422142" duration="737000" />
+      <workItem from="1543302923692" duration="8902000" />
+      <workItem from="1543371349880" duration="4093000" />
+      <workItem from="1543405693310" duration="5157000" />
+      <workItem from="1543413165776" duration="315000" />
+      <workItem from="1543458336760" duration="9000" />
+      <workItem from="1543540127045" duration="2980000" />
+      <workItem from="1543801379075" duration="3000" />
+      <workItem from="1543801427426" duration="104000" />
+      <workItem from="1543825621522" duration="4481000" />
+      <workItem from="1543909538348" duration="7059000" />
+      <workItem from="1543975736023" duration="2572000" />
+      <workItem from="1543990772639" duration="4516000" />
+      <workItem from="1543998554252" duration="6171000" />
+      <workItem from="1544074490811" duration="1223000" />
+      <workItem from="1544152577096" duration="36000" />
+      <workItem from="1544152661237" duration="41000" />
+      <workItem from="1544164211214" duration="1486000" />
+      <workItem from="1544239192198" duration="609000" />
+      <workItem from="1544334671960" duration="10206000" />
+      <workItem from="1544430540556" duration="10805000" />
+      <workItem from="1544446587429" duration="2131000" />
+      <workItem from="1544489600987" duration="121000" />
+      <workItem from="1544497823095" duration="40000" />
+      <workItem from="1544497882881" duration="8535000" />
+      <workItem from="1544576004836" duration="5098000" />
+      <workItem from="1544596344326" duration="833000" />
+      <workItem from="1544614826650" duration="13900000" />
+      <workItem from="1544749347622" duration="192000" />
+      <workItem from="1544750151133" duration="5347000" />
+      <workItem from="1545114393869" duration="1257000" />
+      <workItem from="1545635198461" duration="598000" />
+      <workItem from="1554710708652" duration="616000" />
+      <workItem from="1559568068669" duration="1025000" />
+      <workItem from="1559608564438" duration="229000" />
+      <workItem from="1559612280125" duration="471000" />
+      <workItem from="1559695057430" duration="11599000" />
+      <workItem from="1559822021835" duration="4425000" />
+      <workItem from="1559828856849" duration="173000" />
+      <workItem from="1560147516649" duration="927000" />
+      <workItem from="1560156181881" duration="744000" />
+      <workItem from="1560212879028" duration="75000" />
+      <workItem from="1560231065171" duration="18070000" />
+      <workItem from="1560303192488" duration="8369000" />
+      <workItem from="1560396030920" duration="3008000" />
+      <workItem from="1560408548813" duration="14635000" />
+      <workItem from="1560473267407" duration="5340000" />
+      <workItem from="1560735272496" duration="16498000" />
+      <workItem from="1560827160789" duration="7942000" />
+      <workItem from="1560905959572" duration="21669000" />
+      <workItem from="1560991320621" duration="18013000" />
+      <workItem from="1561079751561" duration="23418000" />
+      <workItem from="1561185317867" duration="413000" />
+      <workItem from="1561185854512" duration="25219000" />
+      <workItem from="1561390590348" duration="4780000" />
+      <workItem from="1561423346416" duration="7174000" />
+      <workItem from="1561462008578" duration="8223000" />
+      <workItem from="1561510234412" duration="18898000" />
+      <workItem from="1561595583659" duration="15426000" />
+      <workItem from="1561685564669" duration="11235000" />
+      <workItem from="1561780308208" duration="152000" />
+      <workItem from="1561792679462" duration="7054000" />
+      <workItem from="1561815886948" duration="3200000" />
+      <workItem from="1561868160892" duration="17357000" />
+      <workItem from="1561901677175" duration="4086000" />
+      <workItem from="1561969978863" duration="222000" />
+      <workItem from="1561977011863" duration="23950000" />
+      <workItem from="1562079471148" duration="1625000" />
+      <workItem from="1562115886531" duration="1434000" />
+      <workItem from="1562118054944" duration="423000" />
+      <workItem from="1562121794800" duration="19904000" />
+      <workItem from="1562200870369" duration="14458000" />
+      <workItem from="1562230212767" duration="7170000" />
+      <workItem from="1562290154070" duration="5070000" />
+      <workItem from="1562382327948" duration="899000" />
+      <workItem from="1562569734026" duration="9113000" />
+      <workItem from="1562592919543" duration="3527000" />
+      <workItem from="1562631211465" duration="19223000" />
+      <workItem from="1562718048892" duration="14020000" />
+      <workItem from="1562804488278" duration="7212000" />
+      <workItem from="1562855879875" duration="197000" />
+      <workItem from="1562891126169" duration="12690000" />
+      <workItem from="1562986263610" duration="104000" />
+      <workItem from="1563074122199" duration="13245000" />
+      <workItem from="1563366383189" duration="2967000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="606394000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="960" y="23" width="960" height="1177" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49746192" weight="0.24394318" />
+      <window_info id="Structure" order="1" sideWeight="0.5025381" side_tool="true" weight="0.16697936" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.18156682" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.48366013" weight="0.30506912" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.5163399" weight="0.36774194" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3299539" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="8" sideWeight="0.48039216" weight="0.16497695" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3299539" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50094163" side_tool="true" weight="0.318894" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="CMake" order="12" weight="0.32903227" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49746192" visible="true" weight="0.24400872" />
+      <window_info id="Structure" order="1" sideWeight="0.5025381" side_tool="true" weight="0.16697936" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.18156682" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.48366013" weight="0.30506912" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.5163399" weight="0.36774194" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3299539" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="8" sideWeight="0.48039216" weight="0.16497695" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3299539" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50094163" side_tool="true" weight="0.318894" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="CMake" order="12" weight="0.32903227" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>l</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>q1</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>q1.front()</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>b[i]</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>a[i]</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>a[i],b[i]</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>ans[i]</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>bit-'A'</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>bit-'0'</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>bit</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>bit</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/luogu/AC/P1996 约瑟夫问题.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="944">
+          <caret line="56" column="1" selection-start-line="56" selection-start-column="1" selection-end-line="56" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sword/AC/31.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="530">
+          <caret line="43" column="19" lean-forward="true" selection-start-line="43" selection-start-column="19" selection-end-line="43" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include/i386/limits.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="71" column="8" selection-start-line="71" selection-start-column="8" selection-end-line="71" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luogu/AC/P1115 最大子段和.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="768">
+          <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ListNode.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Developer/CommandLineTools/usr/include/c++/v1/vector">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="463" column="27" selection-start-line="463" selection-start-column="27" selection-end-line="463" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luogu/AC/P1449 后缀表达式.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="57" column="1" selection-start-line="57" selection-start-column="1" selection-end-line="57" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luogu/AC/P1087 FBI树.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="640">
+          <caret line="48" column="1" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luogu/AC/P1305 新二叉树.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="34" column="14" lean-forward="true" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luogu/AC/P1601 A+B Problem（高精）.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="31" column="16" lean-forward="true" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luogu/AC/P2142 高精度减法.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="56" column="1" selection-start-line="56" selection-start-column="1" selection-end-line="56" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Developer/CommandLineTools/usr/include/c++/v1/istream">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="1293" selection-start-line="1293" selection-end-line="1293" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luogu/AC/P1303 A*B Problem.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="55" column="1" selection-start-line="55" selection-start-column="1" selection-end-line="55" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luogu/AC/P1604 B进制星球.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="545">
+          <caret line="48" column="1" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sword/AC/06.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-385">
+          <caret line="29" column="44" lean-forward="true" selection-start-line="29" selection-start-column="44" selection-end-line="29" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luogu/AC/P1030 求先序排列.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1376">
+          <caret line="43" column="1" selection-start-line="43" selection-start-column="1" selection-end-line="43" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luogu/AC/P5018 对称二叉树.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="36" column="15" selection-start-line="36" selection-start-column="15" selection-end-line="36" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luogu/AC/P1060 开心的金明.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XS/Sort/Quick.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="67" column="24" lean-forward="true" selection-start-line="67" selection-start-column="24" selection-end-line="67" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luogu/AC/P1226 【模板】快速幂||取余运算.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XS/TS/2017T3.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XS/temp.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2592">
+          <caret line="81" column="4" lean-forward="true" selection-start-line="81" selection-start-column="4" selection-end-line="81" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XS/高精度.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="11" column="19" selection-end-line="58" selection-end-column="1" />
+          <folding>
+            <element signature="e#6#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luogu/AC/P1049 装箱问题.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luogu/AC/P1255 数楼梯.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luogu/AC/P1616 疯狂的采药.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="17" column="17" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luogu/AC/P1216 [IOI1994][USACO1.5]数字三角形 Number Triangles.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="736">
+          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luogu/AC/P1182 数列分段`Section II`.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="639">
+          <caret line="43" column="1" selection-start-line="43" selection-start-column="1" selection-end-line="43" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luogu/AC/P1316 丢瓶盖.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luogu/AC/P1141 01迷宫.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1861">
+          <caret line="75" column="1" selection-start-line="75" selection-start-column="1" selection-end-line="75" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include/tclDecls.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="1288" column="46" selection-start-line="1288" selection-start-column="46" selection-end-line="1288" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luogu/P1126 机器人搬重物.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+          <folding>
+            <element signature="e#71#90#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Developer/CommandLineTools/usr/include/c++/v1/algorithm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="2075" selection-start-line="2075" selection-end-line="2075" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luogu/AC/P1443 马的遍历.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="613">
+          <caret line="55" column="1" selection-start-line="55" selection-start-column="1" selection-end-line="55" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luogu/AC/P3383 【模板】线性筛素数.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="28" column="18" lean-forward="true" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luogu/AC/P1118 [USACO06FEB]数字三角形.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luogu/AC/P1048 采药.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="491">
+          <caret line="22" column="19" lean-forward="true" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luogu/P1428.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="613">
+          <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Developer/CommandLineTools/usr/include/c++/v1/ios">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="215" selection-start-line="215" selection-end-line="215" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Developer/CommandLineTools/usr/include/c++/v1/iostream">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="e#731#750#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luogu/AC/P1064 金明的预算方案.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="17" column="24" lean-forward="true" selection-end-line="48" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luogu/AC/P1908 逆序对.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luogu/AC/P1164 小A点菜.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="613">
+          <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Developer/CommandLineTools/usr/include/c++/v1/math.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="1037" selection-start-line="1037" selection-end-line="1037" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luogu/P1434 [SHOI2002]滑雪.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1888">
+          <caret line="59" column="13" lean-forward="true" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luogu/AC/P1433 吃奶酪.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="944">
+          <caret line="64" column="1" selection-start-line="64" selection-start-column="1" selection-end-line="64" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luogu/temp.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="842">
+          <caret line="48" column="1" lean-forward="true" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luogu/P1074 靶形数独.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sword/62.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sword/67.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sword/Swordtemp.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="49" column="9" lean-forward="true" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

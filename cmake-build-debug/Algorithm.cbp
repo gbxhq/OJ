@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Algorithm"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="luogu">
+				<Option output="/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug/luogu" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 luogu"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="luogu/fast">
+				<Option output="/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug/luogu" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 luogu/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="HDOJ">
+				<Option output="/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug/HDOJ" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 HDOJ"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="HDOJ/fast">
+				<Option output="/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug/HDOJ" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 HDOJ/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="XS">
+				<Option output="/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug/XS" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 XS"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="XS/fast">
+				<Option output="/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug/XS" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 XS/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Sword">
+				<Option output="/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug/Sword" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 Sword"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Sword/fast">
+				<Option output="/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug/Sword" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 Sword/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="LeetCode">
+				<Option output="/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug/LeetCode" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 LeetCode"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="LeetCode/fast">
+				<Option output="/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug/LeetCode" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 LeetCode/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Algorithm">
+				<Option output="/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug/Algorithm" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 Algorithm"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Algorithm/fast">
+				<Option output="/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug/Algorithm" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 Algorithm/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/ixsim/Documents/myProjects/Clion/Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/ixsim/Documents/myProjects/Clion/Algorithm/HDU/temp.cpp">
+			<Option target="HDOJ"/>
+		</Unit>
+		<Unit filename="/Users/ixsim/Documents/myProjects/Clion/Algorithm/LeetCode/LeetCodeTemp.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Users/ixsim/Documents/myProjects/Clion/Algorithm/Sword/Swordtemp.cpp">
+			<Option target="Sword"/>
+		</Unit>
+		<Unit filename="/Users/ixsim/Documents/myProjects/Clion/Algorithm/XS/temp.cpp">
+			<Option target="XS"/>
+		</Unit>
+		<Unit filename="/Users/ixsim/Documents/myProjects/Clion/Algorithm/luogu/temp.cpp">
+			<Option target="luogu"/>
+		</Unit>
+		<Unit filename="/Users/ixsim/Documents/myProjects/Clion/Algorithm/main.cpp">
+			<Option target="Algorithm"/>
+		</Unit>
+		<Unit filename="/Users/ixsim/Documents/myProjects/Clion/Algorithm/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

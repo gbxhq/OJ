@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ixsim/Documents/myProjects/Clion/Algorithm/HDU/AC/1.1.1.cpp
+
+/Users/ixsim/Documents/myProjects/Clion/Algorithm/HDU/temp.cpp
+cstdio
+-
+
+/Users/ixsim/Documents/myProjects/Clion/Algorithm/LeetCode/AC/205同构字符串.cpp
+iostream
+-
+string.h
+-
+map
+-
+set
+-
+
+/Users/ixsim/Documents/myProjects/Clion/Algorithm/main.cpp
+
